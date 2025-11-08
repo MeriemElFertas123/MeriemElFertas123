@@ -20,7 +20,6 @@
 
 Software Engineering student with a passion for full-stack development and modern technologies. I specialize in building robust and scalable web applications, combining creativity with technical excellence.
 
-```javascript
 const meriem = {
     role: "Future Software Engineer",
     location: "Morocco 🇲🇦",
