@@ -20,16 +20,13 @@
 
 Software Engineering student with a passion for full-stack development and modern technologies. I specialize in building robust and scalable web applications, combining creativity with technical excellence.
 
-```javascript
-const meriem = {
-    role: "Future Software Engineer",
-    location: "Morocco 🇲🇦",
-    education: "Software Engineering Student",
-    interests: ["Web Development", "Cloud Computing", "DevOps", "Data Visualization"],
-    currentFocus: "Building scalable full-stack applications",
-    funFact: "I turn coffee into code ☕️ → 💻"
-};
-```
+**💼 Quick Info:**
+- 🎓 **Role:** Future Software Engineer
+- 📍 **Location:** Morocco 🇲🇦
+- 🎯 **Education:** Software Engineering Student
+- 💡 **Interests:** Web Development, Cloud Computing, DevOps, Data Visualization
+- 🔭 **Current Focus:** Building scalable full-stack applications
+- ⚡ **Fun Fact:** I turn coffee into code ☕️ → 💻
 
 ---
 
