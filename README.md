@@ -14,11 +14,12 @@
 
 </div>
 
+---
 
 ## 🚀 About Me
 
 Software Engineering student with a passion for full-stack development and modern technologies. I specialize in building robust and scalable web applications, combining creativity with technical excellence.
-
+```javascript
 const meriem = {
     role: "Future Software Engineer",
     location: "Morocco 🇲🇦",
@@ -27,6 +28,7 @@ const meriem = {
     currentFocus: "Building scalable full-stack applications",
     funFact: "I turn coffee into code ☕️ → 💻"
 };
+```
 
 ## 🛠️ Tech Stack
 
@@ -82,6 +84,7 @@ const meriem = {
 
 </div>
 
+---
 
 ## 🎯 Current Goals
 
@@ -91,11 +94,13 @@ const meriem = {
 - 💬 Always happy to discuss web development, DevOps, and emerging technologies
 - 📫 Reach me at: **elfertasmeriem00@gmail.com**
 
+---
 
 ## 💡 Favorite Quote
 
 > *"Code is like humor. When you have to explain it, it's bad."* – Cory House
 
+---
 
 <div align="center">
 
@@ -106,4 +111,3 @@ I'm always open to collaboration opportunities and learning experiences.
 **Thanks for visiting my profile! ⭐️**
 
 </div>
-
