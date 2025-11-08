@@ -22,7 +22,7 @@ Software Engineering student with a passion for full-stack development and moder
 - 🎓 **Role:** Future Software Engineer
 - 📍 **Location:** Morocco 🇲🇦
 - 📚 **Education:** Software Engineering Student
-- 💡 **Interests:** Web Development, Cloud Computing, DevOps, Data Visualization
+- 💡 **Interests:** Web Development, Cloud Computing, DevOps
 - 🔭 **Current Focus:** Building scalable full-stack applications
 - ⚡ **Fun Fact:** I turn coffee into code ☕️ → 💻
 
