@@ -16,21 +16,21 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="25" height="25" /> About Me
+## 🚀 About Me
 
 Software Engineering student with a passion for full-stack development and modern technologies. I specialize in building robust and scalable web applications, combining creativity with technical excellence.
 
 **💼 Quick Info:**
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="20" height="20" /> **Role:** Future Software Engineer
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Round%20Pushpin.png" alt="Location" width="20" height="20" /> **Location:** Morocco 🇲🇦
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="20" height="20" /> **Education:** Software Engineering Student
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="Light Bulb" width="20" height="20" /> **Interests:** Web Development, Cloud Computing, DevOps, Data Visualization
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" alt="Telescope" width="20" height="20" /> **Current Focus:** Building scalable full-stack applications
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="20" height="20" /> **Fun Fact:** I turn coffee into code ☕️ → 💻
+- 🎓 **Role:** Future Software Engineer
+- 📍 **Location:** Morocco 🇲🇦
+- 📚 **Education:** Software Engineering Student
+- 💡 **Interests:** Web Development, Cloud Computing, DevOps, Data Visualization
+- 🔭 **Current Focus:** Building scalable full-stack applications
+- ⚡ **Fun Fact:** I turn coffee into code ☕️ → 💻
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="25" height="25" /> Tech Stack
+## 🛠️ Tech Stack
 
 ### **Programming Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -73,7 +73,7 @@ Software Engineering student with a passion for full-stack development and moder
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Chart" width="25" height="25" /> GitHub Statistics
+## 📊 GitHub Statistics
 
 <div align="center">
 
@@ -86,17 +86,17 @@ Software Engineering student with a passion for full-stack development and moder
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Direct%20Hit.png" alt="Target" width="25" height="25" /> Current Goals
+## 🎯 Current Goals
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" alt="Telescope" width="20" height="20" /> Working on innovative full-stack projects
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Seedling.png" alt="Seedling" width="20" height="20" /> Deep diving into cloud architecture and microservices
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Busts%20in%20Silhouette.png" alt="People" width="20" height="20" /> Looking to collaborate on open-source projects
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Speech%20Balloon.png" alt="Speech" width="20" height="20" /> Always happy to discuss web development, DevOps, and emerging technologies
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Incoming%20Envelope.png" alt="Email" width="20" height="20" /> Reach me at: **elfertasmeriem00@gmail.com**
+- 🔭 Working on innovative full-stack projects
+- 🌱 Deep diving into cloud architecture and microservices
+- 👯 Looking to collaborate on open-source projects
+- 💬 Always happy to discuss web development, DevOps, and emerging technologies
+- 📫 Reach me at: **elfertasmeriem00@gmail.com**
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="Light Bulb" width="25" height="25" /> Favorite Quote
+## 💡 Favorite Quote
 
 > *"Code is like humor. When you have to explain it, it's bad."* – Cory House
 
@@ -104,7 +104,7 @@ Software Engineering student with a passion for full-stack development and moder
 
 <div align="center">
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="30" height="30" /> Let's Connect!
+### 🤝 Let's Connect!
 
 I'm always open to collaboration opportunities and learning experiences.
 
