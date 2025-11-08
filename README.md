@@ -28,9 +28,6 @@ const meriem = {
     currentFocus: "Building scalable full-stack applications",
     funFact: "I turn coffee into code ☕️ → 💻"
 };
-```
-
----
 
 ## 🛠️ Tech Stack
 
@@ -86,7 +83,6 @@ const meriem = {
 
 </div>
 
----
 
 ## 🎯 Current Goals
 
@@ -96,13 +92,11 @@ const meriem = {
 - 💬 Always happy to discuss web development, DevOps, and emerging technologies
 - 📫 Reach me at: **elfertasmeriem00@gmail.com**
 
----
 
 ## 💡 Favorite Quote
 
 > *"Code is like humor. When you have to explain it, it's bad."* – Cory House
 
----
 
 <div align="center">
 
@@ -113,4 +107,4 @@ I'm always open to collaboration opportunities and learning experiences.
 **Thanks for visiting my profile! ⭐️**
 
 </div>
-```
+
